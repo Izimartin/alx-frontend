@@ -34,4 +34,4 @@ Use HTML tags to structure a web page without any CSS or styling.
 ---
 
 ## Author
-* **Sofia Cheung** - [Svcg17](https://github.com/Svcg17)
+* **Izi Martin** - [Svcg17](https://github.com/izimartin)
